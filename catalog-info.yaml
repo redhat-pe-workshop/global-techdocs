@@ -11,4 +11,4 @@ metadata:
 spec:
   type: Documentation
   lifecycle: development
-  owner: "pe1"
+  owner: "group:default/rhdh"
